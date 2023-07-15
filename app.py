@@ -15,3 +15,11 @@ if 0 > -1:
 
 if 7 > 0:
     print("true")
+
+
+
+def salary():
+    myFather = 30000
+    mine = 15000
+    print(myFather + mine)
+salary()
